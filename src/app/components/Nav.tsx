@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaGithub}from "@react-icons/all-files/fa/FaGitHub";
+import { FaGithub}from "@react-icons/all-files/fa/FaGithub";
 import { MdEmail } from "@react-icons/all-files/md/MdEmail";
 import { IoLogoVercel } from "@react-icons/all-files/io5/IoLogoVercel";
 import { FaLinkedin } from "@react-icons/all-files/fa/FaLinkedin";
@@ -25,4 +25,4 @@ const Nav = () => {
   )
 }
 
-export default Nav
+export default Nav;
